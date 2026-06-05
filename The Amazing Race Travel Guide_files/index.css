@@ -107,7 +107,7 @@
     font-size: 15px;
     grid-area: challenge;
 }
-#the_amazing_race_travel_guide_challenge_part{
+#the_amazing_race_travel_guide_challenge_section{
     color: var(--the-amazing-race-travel-guide-challenge-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-challenge-section-color);
 }
