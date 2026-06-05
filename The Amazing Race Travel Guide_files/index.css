@@ -87,7 +87,6 @@
 }
 .the_amazing_race_travel_guide_nav_links{
     grid-area: sidebar;
-    margin-right: 10px;
 }
 .the_amazing_race_travel_guide_nav_links ul{
     list-style-type: none;
