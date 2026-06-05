@@ -36,15 +36,18 @@
     grid-area: header;
 }
 .the_amazing_race_travel_guide_first_title_line{
+    position: relative;
     animation-name: runningFirstTitle;
     animation-duration: 2s;
 }
 .the_amazing_race_travel_guide_second_title_line{
+    position: relative;
     animation-name: runningSecondTitle;
     animation-duration: 4s;
 }
 .plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
+    position: absolute;
     animation-name: flyPlane;
     animation-duration: 1s;
 }
