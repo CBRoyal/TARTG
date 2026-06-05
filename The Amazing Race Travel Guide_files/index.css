@@ -72,6 +72,7 @@
     color: var(--the-amazing-race-travel-guide-challenge-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-challenge-section-color);
     grid-area: challenge;
+    padding-bottom: 10px;
 }
 #the_amazing_race_travel_guide_travel_booking_section{
     color: var(--the-amazing-race-travel-guide-travel-booking-section-text-color);
