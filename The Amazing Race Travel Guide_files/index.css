@@ -43,6 +43,11 @@
     animation-name: runningSecondTitle;
     animation-duration: 4s;
 }
+.plane{
+    color: var(--the-amazing-race-travel-guide-website-bg-color);
+    animation-name: flyPlane;
+    animation-duration: 1s;
+}
 .the_amazing_race_travel_guide_nav_links{
     grid-area: sidebar;
 }
@@ -131,6 +136,10 @@
 }
 .copyright_links:hover, .storage_links:hover{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
+}
+@keyframes flyPlane{
+    0%{transform: translate(-980px, 0px);}
+    100%{transform: translate(1050px, 0px);}
 }
 @keyframes runningFirstTitle{
     0%{transform: translate(-1000px, 0px) scale(1,1);}
