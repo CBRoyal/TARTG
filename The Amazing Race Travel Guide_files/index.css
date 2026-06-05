@@ -48,6 +48,7 @@
 .plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
     position: absolute;
+    left: 150px;
     animation-name: flyPlane;
     animation-duration: 1s;
 }
