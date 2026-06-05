@@ -81,6 +81,7 @@
     background-color: var(--the-amazing-race-travel-guide-travel-booking-section-color);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
+    padding-left: 10px;
     padding-bottom: 10px;
     grid-area: booking;
 }
