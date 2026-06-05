@@ -111,6 +111,7 @@
     background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
     color: var(--the-amazing-race-travel-guide-footer-text-color);
     font-size: 25px;
+    padding: 0 5px;
     grid-area: footer;
 }
 .copyright_links, .storage_links{
