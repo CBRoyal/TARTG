@@ -32,7 +32,7 @@
     text-shadow: 2px 2px var(--the-amazing-race-travel-guide-website-bg-border-color);
     font-family: "BBH Bogle", "Courier", serif;
     position: relative;
-    padding: 50px;
+    padding: 70px;
     font-size: 20px;
     grid-area: header;
 }
