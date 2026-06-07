@@ -91,10 +91,13 @@
 }
 #the_amazing_race_travel_guide_challenge_section_title{
     font-size: 25px;
-    margin-left: 430px;
+    margin-left: 450px;
 }
 #the_amazing_race_15_ducks_in_a_row_challenge_photo{
     margin-left: 370px;
+}
+#the_amazing_race_travel_guide_challenge_section_button{
+    margin-left: 435px;
 }
 #the_amazing_race_travel_guide_travel_booking_section{
     color: var(--the-amazing-race-travel-guide-travel-booking-section-text-color);
