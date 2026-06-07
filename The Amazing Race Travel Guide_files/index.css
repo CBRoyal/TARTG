@@ -107,15 +107,15 @@
     padding: 0 5px 10px;
     grid-area: booking;
 }
-#the_amazing_race_travel_guide_travel_booking_section_title, #the_amazing_race_travel_guide_packing_section_title{
-    margin-left: 100px;
+#the_amazing_race_travel_guide_travel_booking_section_title{
+    margin-left: 120px;
 }
 #the_amazing_race_travel_guide_boston_rob_and_amber_photo{
     filter: contrast(75%) opacity(80) grayscale(0.4);
-    margin-left: 50px; 
+    margin-left: 70px; 
 }
-#the_amazing_race_travel_guide_travel_booking_section_button, #the_amazing_race_travel_guide_packing_section_button{
-    margin-left: 60px;
+#the_amazing_race_travel_guide_travel_booking_section_button{
+    margin-left: 80px;
 }
 #the_amazing_race_travel_guide_packing_section{
     color: var(--the-amazing-race-travel-guide-packing-section-text-color);
@@ -125,8 +125,14 @@
     grid-area: packing;
     padding-left: 10px;
 }
+#the_amazing_race_travel_guide_packing_section_title{
+    margin-left: 130px;
+}
 #kim_holderness_packing_for_the_amazing_race_photo{
-    margin-left: 50px;
+    margin-left: 80px;
+}
+#the_amazing_race_travel_guide_packing_section_button{
+    margin-left: 150px;
 }
 .the_amazing_race_travel_guide_buttons{
     background-color: var(--the-amazing-race-travel-guide-website-bg-color);
