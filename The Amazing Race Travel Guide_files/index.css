@@ -52,12 +52,16 @@
 .first-plane, .second-plane{
     position: absolute;
     color: var(--the-amazing-race-travel-guide-website-bg-color);
-    left: 150px;
     opacity: 0;
     animation-name: flyPlane;
     animation-duration: 2s;
 }
+.first-plane{
+    left: 570px;
+    bottom: 40px;
+}
 .second-plane{
+    left: 545px;
     animation-delay: 2s;
 }
 .the_amazing_race_travel_guide_nav_links{
