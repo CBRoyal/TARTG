@@ -38,14 +38,14 @@
 }
 .the_amazing_race_travel_guide_first_title_line{
     position: absolute;
-    left: 405px;
+    left: 465px;
     bottom: 40px;
     animation-name: runningFirstTitle;
     animation-duration: 2s;
 }
 .the_amazing_race_travel_guide_second_title_line{
     position: absolute;
-    left: 435px;
+    left: 505px;
     animation-name: runningSecondTitle;
     animation-duration: 4s;
 }
