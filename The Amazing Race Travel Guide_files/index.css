@@ -36,22 +36,24 @@
     font-size: 20px;
     grid-area: header;
 }
-.the_amazing_race_travel_guide_first_title_line{
+.the_amazing_race_travel_guide_title_animation_group{
+    display: flex;
     position: absolute;
+    gap: 9px;
+}
+.the_amazing_race_travel_guide_first_title_line{
     left: 475px;
     bottom: 40px;
     animation-name: runningFirstTitle;
     animation-duration: 2s;
 }
 .the_amazing_race_travel_guide_second_title_line{
-    position: absolute;
     left: 530px;
     animation-name: runningSecondTitle;
     animation-duration: 4s;
 }
 .plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
-    position: absolute;
     left: 150px;
     animation-name: flyPlane;
     animation-duration: 1s;
