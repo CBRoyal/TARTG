@@ -41,12 +41,14 @@
     left: 465px;
     bottom: 40px;
     display: flex;
+    align-items: center;
     gap: 10px;
 }
 .the_amazing_race_travel_guide_second_title_line_group{
     position: absolute;
     left: 515px;
     display: flex;
+    align-items: center;
     gap: 10px;
 }
 .first-plane, .second-plane{
