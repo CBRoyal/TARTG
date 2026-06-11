@@ -36,19 +36,6 @@
     font-size: 20px;
     grid-area: header;
 }
-.the_amazing_race_travel_guide_first_title_line{
-    position: absolute;
-    left: 465px;
-    bottom: 40px;
-    animation-name: runningFirstTitle;
-    animation-duration: 2s;
-}
-.the_amazing_race_travel_guide_second_title_line{
-    position: absolute;
-    left: 515px;
-    animation-name: runningSecondTitle;
-    animation-duration: 4s;
-}
 .first-plane, .second-plane{
     position: absolute;
     color: var(--the-amazing-race-travel-guide-website-bg-color);
@@ -64,6 +51,19 @@
 .second-plane{
     left: 545px;
     animation-delay: 0.5s;
+}
+.the_amazing_race_travel_guide_first_title_line{
+    position: absolute;
+    left: 465px;
+    bottom: 40px;
+    animation-name: runningFirstTitle;
+    animation-duration: 2s;
+}
+.the_amazing_race_travel_guide_second_title_line{
+    position: absolute;
+    left: 515px;
+    animation-name: runningSecondTitle;
+    animation-duration: 4s;
 }
 .the_amazing_race_travel_guide_nav_links{
     grid-area: sidebar;
