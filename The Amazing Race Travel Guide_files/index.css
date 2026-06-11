@@ -39,11 +39,10 @@
 .the_amazing_race_travel_guide_title_animation_group{
     display: flex;
     position: absolute;
-    align-items: center;
+    left: 475px;
     gap: 9px;
 }
 .the_amazing_race_travel_guide_first_title_line{
-    left: 475px;
     bottom: 40px;
     animation-name: runningFirstTitle;
     animation-duration: 2s;
