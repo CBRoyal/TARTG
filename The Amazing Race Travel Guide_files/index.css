@@ -36,6 +36,9 @@
     font-size: 20px;
     grid-area: header;
 }
+.the_amazing_race_travel_guide_first_title_line_group{
+    position: absolute;
+}
 .first-plane, .second-plane{
     position: absolute;
     color: var(--the-amazing-race-travel-guide-website-bg-color);
