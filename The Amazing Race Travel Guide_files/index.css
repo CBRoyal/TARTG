@@ -55,6 +55,7 @@
 .first-plane, .second-plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
     left: 150px;
+    opacity: 0;
     animation-name: flyPlane;
     animation-duration: 2s;
 }
@@ -170,9 +171,9 @@
     color: var(--the-amazing-race-travel-guide-footer-text-color);
 }
 @keyframes flyPlane{
-    0%{transform: translate(-980px, 0px);}
-    50%{transform: translate(60px, 0px);}
-    100%{transform: translate(1050px, 0px);}
+    0%{opacity: 0; transform: translate(-980px, 0px);}
+    50%{opacity: 0; transform: translate(60px, 0px);}
+    100%{opacity: 0; transform: translate(1050px, 0px);}
 }
 @keyframes runningFirstTitle{
     0%{transform: translate(-1000px, 0px) scale(1,1);}
