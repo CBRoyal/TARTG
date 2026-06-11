@@ -39,6 +39,7 @@
 .the_amazing_race_travel_guide_title_animation_group{
     display: flex;
     position: absolute;
+    align-items: center;
     gap: 9px;
 }
 .the_amazing_race_travel_guide_first_title_line{
