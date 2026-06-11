@@ -63,7 +63,7 @@
 }
 .second-plane{
     left: 545px;
-    animation-delay: 1s;
+    animation-delay: 0.5s;
 }
 .the_amazing_race_travel_guide_nav_links{
     grid-area: sidebar;
