@@ -50,7 +50,6 @@
     gap: 10px;
 }
 .first-plane, .second-plane{
-    position: absolute;
     color: var(--the-amazing-race-travel-guide-website-bg-color);
     font-size: 15px;
     opacity: 0;
