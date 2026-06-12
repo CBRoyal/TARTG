@@ -116,7 +116,7 @@
 }
 #the_amazing_race_travel_guide_challenge_section_title{
     font-size: 25px;
-    margin-left: 465px;
+    margin-left: 480px;
 }
 #the_amazing_race_15_ducks_in_a_row_challenge_photo{
     margin-left: 370px;
@@ -199,6 +199,9 @@
     #the_amazing_race_travel_guide_main_website_title,
     #the_amazing_race_travel_guide_main_website_main_image{
         margin-left: 180px;
+    }
+    #the_amazing_race_travel_guide_challenge_section_title{
+        margin-left: 390px;
     }
 }
 @keyframes flyPlane{
