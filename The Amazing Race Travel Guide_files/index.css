@@ -85,7 +85,7 @@
     content: "\2708";
     position: absolute;
     left: 0;
-    transform: translateX(0);
+    transform: translateY(0) translateX(-10px);
     opacity: 0;
 }
 .the_amazing_race_travel_guide_nav_links li a:hover{
@@ -93,7 +93,7 @@
 }
 .the_amazing_race_travel_guide_nav_links li a:hover::after{
     opacity: 1;
-    transform: translateX(10px);
+    transform: translateY(0) translateX(0);
 }
 .the_amazing_race_travel_guide_nav_links li a:visited{
     color: var(--the-amazing-race-travel-guide-nav-links-visited-color);
