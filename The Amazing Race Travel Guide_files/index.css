@@ -213,6 +213,12 @@
     #the_amazing_race_travel_guide_challenge_section_button{
         margin-left: 255px;
     }
+    #the_amazing_race_travel_guide_travel_booking_section_title{
+        margin-left: 100px;
+    }
+    #the_amazing_race_travel_guide_boston_rob_and_amber_photo{
+        margin-left: 35px;
+    }
 }
 @keyframes flyPlane{
     0%{opacity: 1; transform: translate(-860px, 0px);}
