@@ -84,7 +84,7 @@
 .the_amazing_race_travel_guide_nav_links li a::after{
     content: "&#9992";
     position: absolute;
-    left: 70px;
+    left: 100px;
     opacity: 0;
 }
 .the_amazing_race_travel_guide_nav_links li a:hover{
