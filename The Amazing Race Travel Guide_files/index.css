@@ -222,6 +222,15 @@
     #the_amazing_race_travel_guide_travel_booking_section_button{
         margin-left: 100px;
     }
+    #the_amazing_race_travel_guide_packing_section_title{
+        margin-left: 75px;
+    }
+    #kim_holderness_packing_for_the_amazing_race_photo{
+        margin-left: 40px;
+    }
+    #the_amazing_race_travel_guide_packing_section_button{
+        margin-left: 120px;
+    }
 }
 @keyframes flyPlane{
     0%{opacity: 1; transform: translate(-860px, 0px);}
