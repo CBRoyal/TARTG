@@ -97,7 +97,8 @@
 .the_amazing_race_travel_guide_nav_links li a:active{
     color: var(--the-amazing-race-travel-guide-nav-links-active-color);
 }
-#the_amazing_race_travel_guide_main_website_title, #the_amazing_race_travel_guide_main_website_main_image{
+#the_amazing_race_travel_guide_main_website_title,
+#the_amazing_race_travel_guide_main_website_main_image{
     margin-left: 205px;
 }
 #the_amazing_race_travel_guide_main_introduction_section{
@@ -194,6 +195,10 @@
     }
     .the_amazing_race_travel_guide_second_title_line_group{
         left: 350px;
+    }
+    #the_amazing_race_travel_guide_main_website_title,
+    #the_amazing_race_travel_guide_main_website_main_image{
+        margin-left: 180px;
     }
 }
 @keyframes flyPlane{
