@@ -42,14 +42,14 @@
     bottom: 40px;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
 }
 .the_amazing_race_travel_guide_second_title_line_group{
     position: absolute;
     left: 515px;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
 }
 .first-plane, .second-plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
@@ -188,8 +188,8 @@
     color: var(--the-amazing-race-travel-guide-footer-text-color);
 }
 @keyframes flyPlane{
-    0%{opacity: 1; transform: translate(-980px, 0px);}
-    50%{opacity: 1; transform: translate(80px, 0px);}
+    0%{opacity: 1; transform: translate(-970px, 0px);}
+    50%{opacity: 1; transform: translate(100px, 0px);}
     100%{opacity: 1; transform: translate(1050px, 0px);}
 }
 @keyframes runningFirstTitle{
