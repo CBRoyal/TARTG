@@ -82,7 +82,7 @@
     font-size: 20px;
 }
 .the_amazing_race_travel_guide_nav_links li a::after{
-    content: "&#9992";
+    content: "\2708";
     position: absolute;
     left: 100px;
     opacity: 0;
