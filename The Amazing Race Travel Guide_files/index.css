@@ -190,10 +190,10 @@
 }
 @media (max-width: 800px){
     .the_amazing_race_travel_guide_first_title_line_group{
-        left: 395px;
+        left: 355px;
     }
     .the_amazing_race_travel_guide_second_title_line_group{
-        left: 445px;
+        left: 405px;
     }
 }
 @keyframes flyPlane{
