@@ -53,7 +53,7 @@
 }
 .first-plane, .second-plane{
     color: var(--the-amazing-race-travel-guide-website-bg-color);
-    font-size: 15px;
+    font-size: 25px;
     opacity: 0;
     animation-name: flyPlane;
     animation-duration: 2s;
