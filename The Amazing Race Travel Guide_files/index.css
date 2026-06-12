@@ -78,6 +78,7 @@
 .the_amazing_race_travel_guide_nav_links li a{
     color: var(--the-amazing-race-travel-guide-website-bg-border-color);
     display: inline-flex;
+    text-decoration: none;
     align-items: center;
     gap: 5px;
     font-family: "BBH Bogle", "Courier", serif;
