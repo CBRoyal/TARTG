@@ -191,6 +191,27 @@
 .copyright_links:hover, .storage_links:hover{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
 }
+@keyframes flyPlane{
+    0%{opacity: 1; transform: translate(-860px, 0px);}
+    50%{opacity: 1; transform: translate(210px, 0px);}
+    100%{opacity: 1; transform: translate(1050px, 0px);}
+}
+@keyframes runningFirstTitle{
+    0%{transform: translate(-1000px, 0px) scale(1,1);}
+    25%{transform: translate(60px, 0px) scale(1,1);}
+    75%{transform: translate(-60px, 0px) scale(1,1);}
+    90%{transform: translate(0px, 0px) scale(2,2);}
+    100%{transform: translate(0px, 0px) scale(1,1);}
+}
+@keyframes runningSecondTitle{
+    0%{transform: translate(-1000px, 0px) scale(1,1);}
+    15%{transform: translate(-1000px, 0px) scale(1,1);}
+    20%{transform: translate(-1000px, 0px) scale(1,1);}
+    25%{transform: translate(60px, 0px) scale(1,1);}
+    75%{transform: translate(-60px, 0px) scale(1,1);}
+    90%{transform: translate(0px, 0px) scale(2,2);}
+    100%{transform: translate(0px, 0px) scale(1,1);}
+}
 @media (max-width: 800px){
     #the_amazing_race_travel_guide_main_content{
         display: grid;
@@ -256,25 +277,4 @@
         "packing packing"
         "footer footer";
     } 
-}
-@keyframes flyPlane{
-    0%{opacity: 1; transform: translate(-860px, 0px);}
-    50%{opacity: 1; transform: translate(210px, 0px);}
-    100%{opacity: 1; transform: translate(1050px, 0px);}
-}
-@keyframes runningFirstTitle{
-    0%{transform: translate(-1000px, 0px) scale(1,1);}
-    25%{transform: translate(60px, 0px) scale(1,1);}
-    75%{transform: translate(-60px, 0px) scale(1,1);}
-    90%{transform: translate(0px, 0px) scale(2,2);}
-    100%{transform: translate(0px, 0px) scale(1,1);}
-}
-@keyframes runningSecondTitle{
-    0%{transform: translate(-1000px, 0px) scale(1,1);}
-    15%{transform: translate(-1000px, 0px) scale(1,1);}
-    20%{transform: translate(-1000px, 0px) scale(1,1);}
-    25%{transform: translate(60px, 0px) scale(1,1);}
-    75%{transform: translate(-60px, 0px) scale(1,1);}
-    90%{transform: translate(0px, 0px) scale(2,2);}
-    100%{transform: translate(0px, 0px) scale(1,1);}
 }
