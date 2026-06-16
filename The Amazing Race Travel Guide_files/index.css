@@ -245,6 +245,9 @@
     #the_amazing_race_travel_guide_main_introduction_section{
         grid-area: description;
     }
+    #the_amazing_race_travel_guide_challenge_section{
+        grid-area: challenge;
+    }
     #the_amazing_race_travel_guide_challenge_section_title{
         margin-left: 170px;
     }
@@ -253,6 +256,9 @@
     }
     #the_amazing_race_travel_guide_challenge_section_button{
         margin-left: 145px;
+    }
+    #the_amazing_race_travel_guide_travel_booking_section{
+        grid-area: booking;
     }
     #the_amazing_race_travel_guide_travel_booking_section_title{
         margin-left: 80px;
@@ -263,6 +269,9 @@
     #the_amazing_race_travel_guide_travel_booking_section_button{
         margin-left: 80px;
     }
+    #the_amazing_race_travel_guide_packing_section{
+        grid-area: packing;
+    }
     #the_amazing_race_travel_guide_packing_section_title{
         margin-left: 45px;
     }
@@ -271,6 +280,9 @@
     }
     #the_amazing_race_travel_guide_packing_section_button{
         margin-left: 90px;
+    }
+    .the_amazing_race_travel_guide_footbars{
+        grid-area: footer;
     }
 }
 @media (max-width: 500px){
@@ -291,5 +303,20 @@
     }
     .the_amazing_race_travel_guide_nav_links{
         grid-area: sidebar;
+    }
+    #the_amazing_race_travel_guide_main_introduction_section{
+        grid-area: description;
+    }
+    #the_amazing_race_travel_guide_challenge_section{
+        grid-area: challenge;
+    }
+    #the_amazing_race_travel_guide_travel_booking_section{
+        grid-area: booking;
+    }
+    #the_amazing_race_travel_guide_packing_section{
+        grid-area: packing;
+    }
+    .the_amazing_race_travel_guide_footbars{
+        grid-area: footer;
     }
 }
